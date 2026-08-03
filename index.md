@@ -1,5 +1,6 @@
 <p align="center">
- <img src="/CIERCMC/assets/images/logo_ciercmc.png" width="180">
+ <img src="{{ '/assets/images/logo_ciercmc.png' | relative_url }}" width="180">
+
 </p>
 
 # CIERCMC  
