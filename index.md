@@ -1,6 +1,9 @@
-<img src="{{ '/assets/images/logo_ciercmc.png' | relative_url }}" 
-     alt="Logo CIERCMC"
-     style="width:350px; height:auto; margin:20px auto; display:block;">
+<div style="text-align:center; width:100%; display:block;">
+  <img src="{{ '/assets/images/logo_ciercmc.png' | relative_url }}"
+       alt="Logo CIERCMC"
+       style="max-width:none; width:420px; height:auto; display:inline-block; margin:20px 0;">
+</div>
+
 
 
 # CIERCMC  
