@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/CIERCMC/assets/images/logo_ciercmc.png" alt="Logo CIERCMC" width="180" style="margin-right:40px;">
-  <img src="/CIERCMC/assets/images/logo-upc.png" alt="Université Paris Cité" width="160">
+ <img src="/CIERCMC/assets/images/logo-ciercmc.png" width="180">
+
 </p>
 
 # CIERCMC  
