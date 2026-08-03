@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="{{ '/assets/images/logo_ciercmc.png' | relative_url }}" alt="Logo CIERCMC" style="width:260px; height:auto; margin:20px 0;">
+  <img src="{{ '/assets/images/logo_ciercmc.png' | relative_url }}" alt="Logo CIERCMC" style="max-width:300px; width:60%; height:auto; margin:20px 0;">
 </p>
+
 
 # CIERCMC  
 ### Centre interdisciplinaire enseignement, recherche et création en milieu carcéral  
