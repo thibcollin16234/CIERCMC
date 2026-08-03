@@ -1,7 +1,7 @@
-<div style="text-align:center; width:100%; display:block;">
+<div style="width:100%; text-align:center; display:block;">
   <img src="/CIERCMC/assets/images/logo_ciercmc.png"
        alt="Logo CIERCMC"
-       style="max-width:none !important; width:700px;"
+       style="max-width:none !important; width:700px; height:auto; margin:40px auto; display:block;">
 </div>
 
 
