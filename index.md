@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/CIERCMC/assets/images/logo-ciercmc.png" width="180">
+ <img src="/CIERCMC/assets/images/logo_ciercmc.png" width="180">
 </p>
 
 # CIERCMC  
