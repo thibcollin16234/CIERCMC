@@ -1,5 +1,6 @@
 title: "CIERCMC – Université Paris Cité"
 description: "Centre interdisciplinaire enseignement, recherche et création en milieu carcéral"
+
 theme: null
 
 collections:
@@ -11,7 +12,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: page
+      layout: default
 
 navbar:
   - name: Accueil
@@ -26,3 +27,4 @@ navbar:
     link: /pages/partenaires.html
   - name: Contact
     link: /pages/contact.html
+
