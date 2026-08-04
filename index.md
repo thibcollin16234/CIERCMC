@@ -1,7 +1,9 @@
-<!-- HEADER INSTITUTIONNEL -->
+
+<!-- force html rendering -->
+
 <div style="
   width:100%;
-  background:#A51417; /* Bordeaux UPC */
+  background:#A51417;
   padding:20px 0;
   position:sticky;
   top:0;
@@ -9,7 +11,6 @@
   box-shadow:0 2px 6px rgba(0,0,0,0.2);
 ">
 
-  <!-- Conteneur responsive -->
   <div style="
     max-width:1200px;
     margin:0 auto;
@@ -21,12 +22,10 @@
     padding:0 20px;
   ">
 
-    <!-- Logo UPC -->
     <img src="/CIERCMC/assets/images/logo_upc.png"
          alt="Logo Université Paris Cité"
          style="max-width:none !important; width:180px; height:auto;">
 
-    <!-- Titre -->
     <div style="text-align:center; color:white;">
       <h1 style="margin:0; font-size:2em;">CIERCMC</h1>
       <div style="font-size:1.1em; font-weight:300;">
@@ -37,7 +36,6 @@
       </div>
     </div>
 
-    <!-- Logo CIERCMC -->
     <img src="/CIERCMC/assets/images/logo_ciercmc.png"
          alt="Logo CIERCMC"
          style="max-width:none !important; width:180px; height:auto;">
