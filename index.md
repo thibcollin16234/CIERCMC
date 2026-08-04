@@ -4,7 +4,7 @@
 <div style="
   width:100%;
   background:#7A0C10;
-  padding:30px 0;
+  padding:20px 0;
   position:sticky;
   top:0;
   z-index:999;
