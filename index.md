@@ -1,43 +1,44 @@
 
+
 <!-- force html rendering -->
 
 <div style="
   width:100%;
-  background:#7A0C10;
-  padding:20px 0;
+  background:#A51417;
+  padding:15px 0;
   position:sticky;
   top:0;
   z-index:999;
-  box-shadow:0 2px 6px rgba(0,0,0,0.2);
+  box-shadow:0 2px 6px rgba(0,0,0,0.25);
 ">
 
   <div style="
-    max-width:1200px;
+    max-width:1400px;
     margin:0 auto;
     display:flex;
-    flex-wrap:wrap;
     align-items:center;
-    justify-content:center;
-    gap:30px;
-    padding:0 20px;
+    justify-content:space-between;
+    gap:20px;
+    padding:0 30px;
+    flex-wrap:nowrap;
   ">
 
+    <!-- Logo UPC -->
     <img src="/CIERCMC/assets/images/logo_upc.png"
          alt="Logo Université Paris Cité"
-         style="max-width:none !important; width:300px; height:auto;">
+         style="max-width:none !important; width:200px; height:auto; flex-shrink:0;">
 
-    <div style="text-align:center; color:white;">
-      <h1 style="margin:0; font-size:2em;">CIERCMC</h1>
+    <!-- Titre -->
+    <div style="text-align:center; color:white; flex-grow:1;">
+      <h1 style="margin:0; font-size:1.8em;">CIERCMC</h1>
       <div style="font-size:1.1em; font-weight:300;">
         Centre interdisciplinaire enseignement, recherche et création en milieu carcéral
       </div>
-      <div style="font-size:1em; margin-top:5px; opacity:0.9;">
-        Université Paris Cité
-      </div>
     </div>
 
+    <!-- Logo CIERCMC (agrandi) -->
     <img src="/CIERCMC/assets/images/logo_ciercmc.png"
          alt="Logo CIERCMC"
-         style="max-width:none !important; width:300px; height:auto;">
+         style="max-width:none !important; width:260px; height:auto; flex-shrink:0;">
   </div>
 </div>
