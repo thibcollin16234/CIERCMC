@@ -24,7 +24,7 @@
 
     <img src="/CIERCMC/assets/images/logo_upc.png"
          alt="Logo Université Paris Cité"
-         style="max-width:none !important; width:180px; height:auto;">
+         style="max-width:none !important; width:300px; height:auto;">
 
     <div style="text-align:center; color:white;">
       <h1 style="margin:0; font-size:2em;">CIERCMC</h1>
