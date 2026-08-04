@@ -2,7 +2,7 @@
   <img src="/CIERCMC/assets/images/logo_ciercmc.png"
        alt="Logo CIERCMC"
        style="max-width:none !important; width:420px; height:auto; margin-right:40px; vertical-align:middle;">
-  <img src="/CIERCMC/assets/images/logo_upc.png"
+  <img src="/CIERCMC/assets/images/logo_upc.jpg"
        alt="Logo Université Paris Cité"
        style="max-width:none !important; width:260px; height:auto; vertical-align:middle;">
 </div>
