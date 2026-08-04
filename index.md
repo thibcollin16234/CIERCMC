@@ -4,7 +4,11 @@
        style="max-width:none !important; width:600px; height:auto; display:block; margin:0 auto;">
 </div>
 
-
+<div style="width:100%; text-align:center; margin:40px 0;">
+  <img src="/CIERCMC/assets/images/logo_ciercmc.png"
+       alt="Logo CIERCMC"
+       style="max-width:none !important; width:600px; height:auto; display:block; margin:0 auto;">
+</div>
 
 
 
