@@ -3,8 +3,8 @@
 
 <div style="
   width:100%;
-  background:#A51417;
-  padding:20px 0;
+  background:#7A0C10;
+  padding:40px 0;
   position:sticky;
   top:0;
   z-index:999;
@@ -38,6 +38,6 @@
 
     <img src="/CIERCMC/assets/images/logo_ciercmc.png"
          alt="Logo CIERCMC"
-         style="max-width:none !important; width:180px; height:auto;">
+         style="max-width:none !important; width:300px; height:auto;">
   </div>
 </div>
