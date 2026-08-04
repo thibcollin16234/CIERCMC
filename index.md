@@ -38,6 +38,6 @@
 
     <img src="/CIERCMC/assets/images/logo_ciercmc.png"
          alt="Logo CIERCMC"
-         style="max-width:none !important; width:300px; height:auto;">
+         style="max-width:none !important; width:500px; height:auto;">
   </div>
 </div>
