@@ -1,1 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    /* Palette UPC */
+    :root {
+      --upc-bordeaux: #A51417;
+      --upc-gris: #333333;
+      --upc-blanc: #ffffff;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: var(--upc-blanc);
+      color: var(--upc-gris);
+    }
+
+    /* HEADER INSTITUTIONNEL */
+    .header {
+      width: 100%;
+      background: var(--upc-bordeaux);
+      padding: 15px 0;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    }
+
+    .header-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 0 30px;
+    }
+
+    .header img {
+      height: auto;
+      flex-shrink: 0;
+    }
+
+    .logo-upc {
+      width: 200px;
+    }
+
+    .logo-ciercmc {
+      width: 300px;
+    }
+
+    .header-title {
+      text-align: center;
+      color: var(--upc-blanc);
+      flex-grow: 1;
+    }
+
+    .header-title h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    .header-title div {
+      font-size: 1.1em;
+      font-weight: 300;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .header-container {
+        flex-direction: column;
+      }
+      .logo-upc, .logo-ciercmc {
+        width: 180px;
+      }
+    }
+
+    /* Contenu */
+    .content {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      font-size: 1.15em;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-container">
+      <img src="/CIERCMC/assets/images/logo_upc.png" class="logo-upc" alt="Logo UPC">
+      <div class="header-title">
+        <h1>CIERCMC</h1>
+        <div>Centre interdisciplinaire enseignement, recherche et création en milieu carcéral</div>
+      </div>
+      <img src="/CIERCMC/assets/images/logo_ciercmc.png" class="logo-ciercmc" alt="Logo CIERCMC">
+    </div>
+  </div>
+
+  <!-- CONTENU -->
+  <div class="content">
+    {{ content }}
+  </div>
+
+</body>
+</html>
 
