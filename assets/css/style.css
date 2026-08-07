@@ -1,1 +1,21 @@
+/* Fond bordeaux UPC + texture papier */
+body.fond-bordeaux {
+  background-color: #7a0c0c; /* Bordeaux UPC */
+  background-image: url('/CIERCMC/assets/images/texture_papier.png');
+  background-size: cover;
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Encadré blanc pour le contenu */
+.contenu-blanc {
+  background: white;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem 2.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
 
