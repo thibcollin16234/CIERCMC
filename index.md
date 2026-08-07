@@ -17,6 +17,5 @@ layout: default
 - Soutenir des projets de création artistique  
 - Favoriser les collaborations institutionnelles
 
-**Université Paris Cité**
 
 ---
