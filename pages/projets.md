@@ -1,6 +1,7 @@
 ---
 title: Projets
 layout: default
+permalink: /projets/
 ---
 
 ## Missions
