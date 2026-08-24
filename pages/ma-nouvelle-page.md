@@ -1,8 +1,8 @@
 ---
-title: Fondateurs
+title: Essai
 layout: default
 permalink: /fondateurs/
 ---
 
-# Les fondateurs du Centre
+# Une page d'essai
 Contenu ici.
