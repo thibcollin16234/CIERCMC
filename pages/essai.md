@@ -1,7 +1,7 @@
 ---
 title: Essai
 layout: default
-permalink: /pages/essai
+permalink: /pages/essai/
 ---
 
 # Une page d'essai
