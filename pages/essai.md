@@ -1,7 +1,7 @@
 ---
 title: Essai
 layout: default
-permalink: /fondateurs/
+permalink: /pages/essai
 ---
 
 # Une page d'essai
