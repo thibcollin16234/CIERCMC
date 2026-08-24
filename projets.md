@@ -3,6 +3,8 @@ title: Projets
 layout: default
 ---
 
-# Les projets du CIERCMC
-
-Ton contenu ici.
+## Missions
+- Développer des enseignements universitaires en détention  
+- Conduire des recherches interdisciplinaires  
+- Soutenir des projets de création artistique  
+- Favoriser les collaborations institutionnelles
