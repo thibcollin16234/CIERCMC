@@ -1,6 +1,6 @@
 ---
 title: Journées
 layout: default
-permalink: /pages/journées/
+permalink: /journées/
 ---
 
